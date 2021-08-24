@@ -38,3 +38,11 @@
     background:    #0073E5;
     padding-left: 50px;
 }
+
+.form-group {
+    padding-bottom: 10px;
+}
+
+.subtitle {
+    padding-bottom: 20px;
+}
