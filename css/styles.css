@@ -61,5 +61,11 @@
     border-bottom: 1px solid #ddd;
     padding:10px;
 }
+a, u {
+    text-decoration: none;
+  }
 
+  a { color: inherit; } 
+
+ 
 /*hey
